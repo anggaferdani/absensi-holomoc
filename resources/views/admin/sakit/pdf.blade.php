@@ -3,7 +3,7 @@
     <div style="padding: 20px;">
       <div style="position: relative; margin-bottom: 30px; text-align: center;">
         <div style="position: absolute; left: 40px; top: 0;">
-          <img src="{{ public_path('images/icon.png') }}" width="55">
+          <img src="{{ public_path('images/logo2.png') }}" width="55">
         </div>
         <div>
           <div style="font-weight: bold; font-size: 1rem;">PT GUNA CIPTA KREASI</div>

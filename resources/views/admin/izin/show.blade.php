@@ -17,7 +17,7 @@
       <div class="card">
         <div class="card-body">
           <div class="d-flex align-items-center mb-5">
-            <div class="" style="position: absolute; transform: translate(40px, 0px);"><img src="{{ asset('images/icon.png') }}" alt="" class="" width="70"></div>
+            <div class="" style="position: absolute; transform: translate(40px, 0px);"><img src="{{ asset('images/logo2.png') }}" alt="" class="" width="70"></div>
             <div class="m-auto">
               <div class="fw-bold text-center fs-3">PT GUNA CIPTA KREASI</div>
               <div class="fw-bold text-center">Jalan Lapangan Bola No. 7 Kebon Jeruk Jakarta Barat</div>

@@ -6,7 +6,7 @@
     <h1 class="navbar-brand navbar-brand-autodark">
       <a href="{{ route('admin.dashboard') }}">
         Smart Absensi
-        {{-- <img src="{{ asset('holomoc.png') }}" width="150" height="" alt="" class="img-fluid"> --}}
+        {{-- <img src="{{ asset('logo.png') }}" width="150" height="" alt="" class="img-fluid"> --}}
       </a>
     </h1>
     <div class="navbar-nav flex-row d-lg-none">

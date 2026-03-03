@@ -6,7 +6,10 @@ namespace Database\Seeders;
 
 use App\Models\ContactPerson;
 use App\Models\User;
+use App\Models\Profile;
+use App\Models\Experience;
 use Illuminate\Database\Seeder;
+use App\Models\WhyTradersChooseUs;
 
 class DatabaseSeeder extends Seeder
 {
@@ -18,8 +21,8 @@ class DatabaseSeeder extends Seeder
         $users = [
             [
                 'name' => 'Admin',
-                'email' => 'admin@holomoc.com',
-                'password' => bcrypt('Admin123*'),
+                'email' => 'admin@smart-absensi.com',
+                'password' => bcrypt('admin123*'),
                 'phone' => 123456789,
                 'profile_picture' => 'default.png',
                 'role' => 1,
