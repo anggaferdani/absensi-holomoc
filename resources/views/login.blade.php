@@ -29,7 +29,7 @@
           <button type="submit" class="btn btn-primary w-100 rounded-pill">Login</button>
         </div>
       </form>
-      <div class="text-center mt-5"><img src="{{ asset('images/logo.png') }}" alt="" class="img-fluid" width="200"></div>
+      <div class="text-center mt-5 fw-bold text-dark">PT Holomoc Indonesia</div>
     </div>
   </div>
 </div>
