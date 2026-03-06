@@ -9,8 +9,7 @@
       <div class="col-12 col-lg-auto mt-3 mt-lg-0">
         <ul class="list-inline list-inline-dots mb-0">
           <li class="list-inline-item">
-            Copyright 2024
-            <a href="{{ route('index') }}" class="link-secondary">Smart Absensi</a>.
+            Copyright {{ date('Y') }} <a href="{{ route('index') }}" class="link-secondary">Smart Absensi</a>.
           </li>
         </ul>
       </div>

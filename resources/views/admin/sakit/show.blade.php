@@ -19,14 +19,14 @@
           <div class="d-flex align-items-center mb-5">
             <div class="" style="position: absolute; transform: translate(40px, 0px);"><img src="{{ asset('images/icon.png') }}" alt="" class="" width="70"></div>
             <div class="m-auto">
-              <div class="fw-bold text-center fs-3">PT GUNA CIPTA KREASI</div>
+              <div class="fw-bold text-center fs-3">PT HOLOMOC INDONESIA</div>
               <div class="fw-bold text-center">Jalan Lapangan Bola No. 7 Kebon Jeruk Jakarta Barat</div>
             </div>
           </div>
           <hr>
           <div class="text-center fs-3 fw-bold mb-5">FORMULIR PENGAJUAN IZIN TIDAK MASUK KARENA SAKIT</div>
           <div class="mb-3">Kepada YTH</div>
-          <div>HRD PT Guna Cipta Kreasi</div>
+          <div>HRD PT HOLOMOC INDONESIA</div>
           <div>di</div>
           <div class="mb-3">Tempat</div>
           <div class="mb-3">Perihal : <span class="fw-bold">{{ $izin->keterangan }}</span></div>
